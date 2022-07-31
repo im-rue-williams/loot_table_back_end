@@ -1,4 +1,4 @@
-const client = require('../lib/client').default;
+const client = require('../lib/client');
 const loot = require('./loot.js');
 const monsterData = require('./monsters.js');
 
